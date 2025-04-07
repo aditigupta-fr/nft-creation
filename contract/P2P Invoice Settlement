@@ -83,4 +83,3 @@ contract P2PInvoiceSettlement {
         return invoices[_invoiceId];
     }
 }
-##contrat Details:
